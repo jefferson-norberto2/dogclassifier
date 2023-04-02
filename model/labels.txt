@@ -1,0 +1,4 @@
+0 Border Collie
+1 Chihuahua
+2 Pit Bull
+3 Vira-lata

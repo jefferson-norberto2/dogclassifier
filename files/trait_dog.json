@@ -1,0 +1,34 @@
+{
+    "Border Collie":{
+        "CARACTERÍSTICA":"Originário da Grã-Bretanha, são conhecidos por suas habilidades em pastoreio.",
+        "PONTO FORTE":"Inteligência.",
+        "AMBIENTE":"Casas com quintais grandes, fazendas ou em áreas rurais",
+        "PORTE": "médio",
+        "PESO": "Entre 12kg e 20kg",
+        "ALTURA": "Entre 46cm a 56cm"
+    },
+    "Chihuahua":{
+        "CARACTERÍSTICA":"Originário do México, são conhecidos por serem leais e companheiros amorosos.",
+        "PONTO FORTE":"Lealdade",
+        "AMBIENTE":"Apartamentos ou casa pequenas",
+        "PORTE": "pequeno",
+        "PESO": "Entre 1,5kg e 3kg",
+        "ALTURA": "Entre 15cm a 23cm"
+    },
+    "Pit Bull":{
+        "CARACTERÍSTICA":"Originário dos Estados Unidos, foram criados para serem cães de combate.",
+        "PONTO FORTE":"Força física",
+        "AMBIENTE":"Casas com grandes quintais, ambientes com bastante espaço",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 14kg e 30kg",
+        "ALTURA": "Entre 43cm a 53cm (fêmeas) ou 45cm a 53cm (machos)"
+    },
+    "Vira-lata":{
+        "CARACTERÍSTICA":"Podem variar muito em aparência e tamanho. Geralmente são amorosos e leais.",
+        "PONTO FORTE":"Adaptabilidade",
+        "AMBIENTE":"Variável, dependendo do porte",
+        "PORTE": "Variável",
+        "PESO": "Variável",
+        "ALTURA": "Variável"
+    }
+}
