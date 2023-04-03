@@ -1,4 +1,5 @@
 import tkinter as tk
+import tkinter.ttk as ttk
 from tkinter import filedialog
 from PIL import ImageTk, Image
 import json
@@ -8,8 +9,10 @@ import threading
 class DogApp:
     def __init__(self, master):
         self.master = master
+        style = ttk.Style(master)
+        style.configure('.', font=('Arial', 20))
         master.title("Dog App")
-        master.geometry('600x450')
+        master.geometry('1300x700')
 
         # Carrega o arquivo JSON com as informações das raças
         with open("files/trait_dog.json", "r", encoding='utf-8') as f:
@@ -19,15 +22,18 @@ class DogApp:
         self.image_label = tk.Label(master)
         self.image_label.pack()
 
-        self.text_label = tk.Label(master, text="")
+        self.text_label = tk.Label(master, text="", font=("Arial", 20))
         self.text_label.pack()
 
         self.button = tk.Button(master, text="Escolher foto", command=self.choose_file)
+        
+        # Atualizando a fonte do botão
+        self.button.config(font=('Arial', 20))
         self.button.pack()
         self.button.configure(state="disabled")
 
         image, _ = self.load_image("images/logo.png")
-        image = image.resize((300, 300), Image.LANCZOS)
+        image = image.resize((500, 500), Image.LANCZOS)
         photo = ImageTk.PhotoImage(image)
         self.image_label.configure(image=photo)
         self.image_label.image = photo
@@ -45,7 +51,9 @@ class DogApp:
 
     def choose_file(self):
         # Abre o diálogo para escolher um arquivo de imagem
-        file_path = filedialog.askopenfilename()
+        file_path = filedialog.askopenfilename(
+            title="Selecione um arquivo"
+            )
         if file_path:
             # Carrega a imagem e exibe na interface
             image, img = self.load_image(file_path)
