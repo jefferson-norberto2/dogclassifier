@@ -8,8 +8,8 @@ class DogClassifier:
         np.set_printoptions(suppress=True)
 
         # Load the model and labels
-        self.model = load_model("model\keras_model.h5", compile=False)
-        self.class_names = open("model\labels.txt", "r").readlines()
+        self.model = load_model("model/keras_model.h5", compile=False)
+        self.class_names = open("model/labels.txt", "r").readlines()
 
         # Create the array of the right shape to feed into the keras model
         # The 'length' or number of images you can put into the array is

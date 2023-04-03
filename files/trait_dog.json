@@ -1,4 +1,76 @@
 {
+    "Afghan": {
+        "CARACTERÍSTICA": "Raça de cães antiga e nobre, é originária do Afeganistão. Eles são conhecidos por sua pelagem longa e sedosa.",
+        "PONTO FORTE": "Beleza e elegância.",
+        "AMBIENTE": "Casas com quintais grandes ou áreas rurais",
+        "PORTE": "Grande",
+        "PESO": "Entre 25kg e 30kg",
+        "ALTURA": "Entre 63cm a 73cm"
+    },
+    "African Wild Dog": {
+        "CARACTERÍSTICA": "Também conhecido como cão-pintado-africano, é uma espécie selvagem de cão encontrada principalmente na África.",
+        "PONTO FORTE": "Velocidade e agilidade.",
+        "AMBIENTE": "Vive em matilhas na savana africana",
+        "PORTE": "Médio",
+        "PESO": "Entre 18kg e 36kg",
+        "ALTURA": "Entre 60cm a 75cm"
+    },
+    "Basset": {
+        "CARACTERÍSTICA": "Originário da França, é conhecido por suas orelhas compridas e pelo latido característico.",
+        "PONTO FORTE": "Olfato aguçado",
+        "AMBIENTE": "Apartamentos ou casas pequenas",
+        "PORTE": "Pequeno a médio",
+        "PESO": "Entre 18kg e 36kg",
+        "ALTURA": "Entre 33cm a 38cm"
+    },
+    "Beagle": {
+        "CARACTERÍSTICA": "Originário da Inglaterra, é uma raça popular devido ao seu temperamento amigável e aparência atraente.",
+        "PONTO FORTE": "Olfato aguçado",
+        "AMBIENTE": "Casas com quintais grandes ou áreas rurais",
+        "PORTE": "Pequeno a médio",
+        "PESO": "Entre 9kg e 16kg",
+        "ALTURA": "Entre 33cm a 40cm"
+    },
+    "Bermaise": {
+        "CARACTERÍSTICA": "Também conhecido como Bernese Mountain Dog, é uma raça de cão grande e peludo, originária dos Alpes suíços.",
+        "PONTO FORTE": "Força e lealdade.",
+        "AMBIENTE": "Casas com quintais grandes ou áreas rurais",
+        "PORTE": "Grande",
+        "PESO": "Entre 36kg e 54kg",
+        "ALTURA": "Entre 58cm a 70cm"
+    },
+    "Bichon Frisé":{
+        "CARACTERÍSTICA":"Originário da Espanha, são conhecidos por serem cachorros amigáveis e enérgicos.",
+        "PONTO FORTE":"Adaptabilidade",
+        "AMBIENTE":"Apartamentos ou casas pequenas",
+        "PORTE": "pequeno",
+        "PESO": "Entre 3kg e 5kg",
+        "ALTURA": "Entre 23cm a 30cm"
+    },
+    "Bleheim":{
+        "CARACTERÍSTICA":"Também conhecido como Cavalier King Charles Spaniel, é originário da Inglaterra e é conhecido por ser um cachorro carinhoso e afetuoso.",
+        "PONTO FORTE":"Personalidade gentil",
+        "AMBIENTE":"Casas ou apartamentos pequenos",
+        "PORTE": "pequeno a médio",
+        "PESO": "Entre 5,9kg e 8,2kg",
+        "ALTURA": "Entre 31cm a 33cm"
+    },
+    "Bloodhound":{
+        "CARACTERÍSTICA":"Originário da Bélgica, é um cachorro de caça que é conhecido pelo faro apurado.",
+        "PONTO FORTE":"Faro",
+        "AMBIENTE":"Casas com quintais grandes, fazendas ou em áreas rurais",
+        "PORTE": "grande",
+        "PESO": "Entre 36kg e 50kg",
+        "ALTURA": "Entre 58cm a 69cm"
+    },
+    "Bluetick":{
+        "CARACTERÍSTICA":"Originário dos Estados Unidos, é um cachorro de caça que é conhecido pelo faro apurado.",
+        "PONTO FORTE":"Faro",
+        "AMBIENTE":"Casas com quintais grandes, fazendas ou em áreas rurais",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 23kg e 36kg",
+        "ALTURA": "Entre 53cm a 69cm"
+    },
     "Border Collie":{
         "CARACTERÍSTICA":"Originário da Grã-Bretanha, são conhecidos por suas habilidades em pastoreio.",
         "PONTO FORTE":"Inteligência.",
@@ -7,15 +79,327 @@
         "PESO": "Entre 12kg e 20kg",
         "ALTURA": "Entre 46cm a 56cm"
     },
-    "Chihuahua":{
+    "Borzoi":{
+        "CARACTERÍSTICA":"Originário da Rússia, é conhecido por ser um cachorro elegante e de porte aristocrático.",
+        "PONTO FORTE":"Velocidade",
+        "AMBIENTE":"Casas com quintais grandes, fazendas ou em áreas rurais",
+        "PORTE": "grande",
+        "PESO": "Entre 34kg e 48kg",
+        "ALTURA": "Entre 66cm a 76cm"
+    },
+    "Boston Terrier":{
+        "CARACTERÍSTICA":"Originário dos Estados Unidos, são cães inteligentes e afetuosos.",
+        "PONTO FORTE":"Facilidade em adaptação a diferentes tipos de ambientes e estilos de vida.",
+        "AMBIENTE":"Casas ou apartamentos",
+        "PORTE": "pequeno a médio",
+        "PESO": "Entre 4kg e 11kg",
+        "ALTURA": "Entre 38cm a 43cm"
+    },
+    "Boxer":{
+        "CARACTERÍSTICA":"Originário da Alemanha, é um cão forte e musculoso, mas também carinhoso e leal.",
+        "PONTO FORTE":"Inteligência e facilidade de treinamento",
+        "AMBIENTE":"Casas com quintais grandes ou apartamentos com exercícios físicos diários",
+        "PORTE": "médio",
+        "PESO": "Entre 25kg e 32kg",
+        "ALTURA": "Entre 53cm a 63cm"
+    },
+    "Bull Mastif":{
+        "CARACTERÍSTICA":"Originário da Inglaterra, é um cão grande e forte, mas também gentil e protetor.",
+        "PONTO FORTE":"Protetor e leal",
+        "AMBIENTE":"Casas com quintais grandes ou fazendas",
+        "PORTE": "grande",
+        "PESO": "Entre 50kg e 59kg",
+        "ALTURA": "Entre 63cm a 69cm"
+    },
+    "Bull Terrier":{
+        "CARACTERÍSTICA":"Originário da Inglaterra, é um cão musculoso e resistente, mas também amigável e divertido.",
+        "PONTO FORTE":"Energia e disposição para brincadeiras",
+        "AMBIENTE":"Casas com quintais grandes ou apartamentos com exercícios físicos diários",
+        "PORTE": "médio",
+        "PESO": "Entre 20kg e 38kg",
+        "ALTURA": "Entre 50cm a 60cm"
+    },
+    "Bulldog":{
+        "CARACTERÍSTICA":"Originário da Inglaterra, é um cão corajoso e amigável, mas também preguiçoso.",
+        "PONTO FORTE":"Companheirismo",
+        "AMBIENTE":"Casas ou apartamentos",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 18kg e 25kg",
+        "ALTURA": "Entre 30cm a 40cm"
+    },
+    "Cairn":{
+        "CARACTERÍSTICA":"Originário da Escócia, são conhecidos por sua coragem e habilidades em caçar pequenos animais.",
+        "PONTO FORTE":"Coragem",
+        "AMBIENTE":"Apartamentos ou casas com pequenos quintais",
+        "PORTE": "pequeno a médio",
+        "PESO": "Entre 6kg e 8kg",
+        "ALTURA": "Entre 28cm a 31cm"
+    },
+    "Chihauhau":{
         "CARACTERÍSTICA":"Originário do México, são conhecidos por serem leais e companheiros amorosos.",
         "PONTO FORTE":"Lealdade",
-        "AMBIENTE":"Apartamentos ou casa pequenas",
+        "AMBIENTE":"Apartamentos ou casas pequenas",
         "PORTE": "pequeno",
         "PESO": "Entre 1,5kg e 3kg",
         "ALTURA": "Entre 15cm a 23cm"
     },
-    "Pit Bull":{
+    "Chinese Crested":{
+        "CARACTERÍSTICA":"Originário da China, são conhecidos por serem uma raça de cão de companhia.",
+        "PONTO FORTE":"Inteligência",
+        "AMBIENTE":"Apartamentos ou casas pequenas",
+        "PORTE": "pequeno a médio",
+        "PESO": "Entre 3kg e 5kg",
+        "ALTURA": "Entre 23cm a 33cm"
+    },
+    "Chow":{
+        "CARACTERÍSTICA":"Originário da China, são conhecidos por sua língua azul e sua pelagem espessa.",
+        "PONTO FORTE":"Coragem",
+        "AMBIENTE":"Casas com quintais grandes ou em áreas rurais",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 20kg e 32kg",
+        "ALTURA": "Entre 46cm a 56cm"
+    },
+    "Clumber":{
+        "CARACTERÍSTICA":"Originário do Reino Unido, é um cão de caça de porte grande.",
+        "PONTO FORTE":"Olfato apurado",
+        "AMBIENTE":"Casas com grandes quintais ou em áreas rurais",
+        "PORTE": "grande",
+        "PESO": "Entre 32kg e 38kg",
+        "ALTURA": "Entre 43cm a 51cm"
+    },
+    "Cockapoo":{
+        "CARACTERÍSTICA":"É uma raça híbrida resultante do cruzamento entre um Cocker Spaniel e um Poodle.",
+        "PONTO FORTE":"Inteligência e facilidade de treinamento.",
+        "AMBIENTE":"Casas ou apartamentos, desde que tenha espaço para exercícios físicos",
+        "PORTE": "pequeno a médio",
+        "PESO": "Entre 5kg e 12kg",
+        "ALTURA": "Entre 25cm a 38cm"
+    },
+    "Cocker":{
+        "CARACTERÍSTICA":"Originário do Reino Unido, é conhecido por ser um cão de caça e um excelente companheiro.",
+        "PONTO FORTE":"Inteligência e habilidade para caça",
+        "AMBIENTE":"Casas com quintais grandes ou apartamentos desde que faça exercícios diários",
+        "PORTE": "médio",
+        "PESO": "Entre 12kg e 16kg",
+        "ALTURA": "Entre 38cm a 41cm"
+    },
+    "Collie":{
+        "CARACTERÍSTICA":"Raça originária do Reino Unido, é conhecida por sua beleza e habilidades de pastoreio.",
+        "PONTO FORTE":"Inteligência e habilidade para pastoreio",
+        "AMBIENTE":"Casas com grandes quintais ou fazendas",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 18kg e 34kg",
+        "ALTURA": "Entre 56cm a 66cm (machos) ou 51cm a 61cm (fêmeas)"
+    },
+    "Corgi":{
+        "CARACTERÍSTICA":"Raça originária do País de Gales, é conhecida por sua lealdade e inteligência.",
+        "PONTO FORTE":"Inteligência e facilidade de treinamento",
+        "AMBIENTE":"Casas ou apartamentos com espaço para exercícios",
+        "PORTE": "pequeno a médio",
+        "PESO": "Entre 11kg e 15kg",
+        "ALTURA": "Entre 25cm a 30cm"
+    },
+    "Coyote":{
+        "CARACTERÍSTICA":"É uma espécie selvagem de canídeo nativa da América do Norte.",
+        "PONTO FORTE":"Agilidade e adaptação",
+        "AMBIENTE":"Habitat natural em áreas rurais",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 9kg e 23kg",
+        "ALTURA": "Entre 60cm a 90cm"
+    },
+    "Dalmation":{
+        "CARACTERÍSTICA":"Originário da Croácia, é conhecido por sua pelagem branca com manchas pretas.",
+        "PONTO FORTE":"Energia",
+        "AMBIENTE":"Casas com grandes quintais ou áreas rurais",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 22kg e 32kg",
+        "ALTURA": "Entre 56cm a 61cm (fêmeas) ou 58cm a 64cm (machos)"
+    },
+    "Dhole":{
+        "CARACTERÍSTICA":"Originário da Ásia, é um parente próximo do cão doméstico.",
+        "PONTO FORTE":"Agilidade",
+        "AMBIENTE":"Ambientes com bastante espaço",
+        "PORTE": "médio",
+        "PESO": "Entre 15kg e 20kg",
+        "ALTURA": "Entre 56cm a 61cm (fêmeas) ou 61cm a 66cm (machos)"
+    },
+    "Dingo":{
+        "CARACTERÍSTICA":"Originário da Austrália, é um cão selvagem.",
+        "PONTO FORTE":"Adaptabilidade",
+        "AMBIENTE":"Ambientes com bastante espaço",
+        "PORTE": "médio",
+        "PESO": "Entre 13kg e 24kg",
+        "ALTURA": "Entre 52cm a 60cm (fêmeas) ou 53cm a 63cm (machos)"
+    },
+    "Doberman":{
+        "CARACTERÍSTICA":"Originário da Alemanha, é um cão de guarda.",
+        "PONTO FORTE":"Coragem",
+        "AMBIENTE":"Ambientes com bastante espaço",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 27kg e 45kg",
+        "ALTURA": "Entre 63cm a 68cm (fêmeas) ou 68cm a 72cm (machos)"
+    },
+    "Elk Hound":{
+        "CARACTERÍSTICA":"Originário da Noruega, é um cão de caça.",
+        "PONTO FORTE":"Olfato",
+        "AMBIENTE":"Ambientes com bastante espaço",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 20kg e 30kg",
+        "ALTURA": "Entre 48cm a 53cm (fêmeas) ou 52cm a 58cm (machos)"
+    },
+    "French Bulldog": {
+        "CARACTERÍSTICA": "Originário da França, são cães de pequeno porte, companheiros e amigáveis.",
+        "PONTO FORTE": "Bom temperamento e fácil adaptação a ambientes pequenos.",
+        "AMBIENTE": "Apartamentos ou casas pequenas.",
+        "PORTE": "Pequeno a médio",
+        "PESO": "Entre 8kg e 14kg",
+        "ALTURA": "Entre 28cm e 33cm"
+    },
+    "German Shepherd": {
+        "CARACTERÍSTICA": "Originário da Alemanha, é uma raça conhecida por sua inteligência e habilidade para pastorear.",
+        "PONTO FORTE": "Coragem, inteligência e fidelidade.",
+        "AMBIENTE": "Casas com quintais grandes ou áreas rurais.",
+        "PORTE": "Médio a grande",
+        "PESO": "Entre 22kg e 40kg",
+        "ALTURA": "Entre 55cm e 65cm (fêmeas) ou 60cm e 70cm (machos)"
+    },
+    "Golden Retriever": {
+        "CARACTERÍSTICA": "Originário do Reino Unido, é uma raça conhecida por ser amigável e leal.",
+        "PONTO FORTE": "Inteligência, facilidade em aprender e adaptabilidade.",
+        "AMBIENTE": "Casas com quintais grandes ou áreas rurais.",
+        "PORTE": "Médio a grande",
+        "PESO": "Entre 25kg e 36kg",
+        "ALTURA": "Entre 51cm e 56cm (fêmeas) ou 56cm e 61cm (machos)"
+    },
+    "Great Dane": {
+        "CARACTERÍSTICA": "Originário da Alemanha, é uma das maiores raças de cães do mundo.",
+        "PONTO FORTE": "Imponência, nobreza e temperamento equilibrado.",
+        "AMBIENTE": "Casas com quintais grandes ou áreas rurais.",
+        "PORTE": "Grande",
+        "PESO": "Entre 54kg e 91kg",
+        "ALTURA": "Entre 76cm e 86cm (fêmeas) ou 81cm e 86cm (machos)"
+    },
+    "Great Pyrenees": {
+        "CARACTERÍSTICA": "Originário do sul da França, é uma raça conhecida por sua coragem e lealdade.",
+        "PONTO FORTE": "Habilidade em proteger rebanhos, equilíbrio e serenidade.",
+        "AMBIENTE": "Casas com quintais grandes ou áreas rurais.",
+        "PORTE": "Grande",
+        "PESO": "Entre 40kg e 54kg",
+        "ALTURA": "Entre 65cm e 74cm (fêmeas) ou 70cm e 80cm (machos)"
+    },
+    "Greyhound": {
+        "CARACTERÍSTICA": "Originalmente criados para caça e corridas, são animais bastante ágeis e velozes",
+        "PONTO FORTE": "Velocidade",
+        "AMBIENTE": "Ambientes espaçosos, com áreas para correr e brincar",
+        "PORTE": "Grande",
+        "PESO": "Entre 25kg e 40kg",
+        "ALTURA": "Entre 68cm a 76cm"
+    },
+    "Groenendael": {
+        "CARACTERÍSTICA": "Uma das quatro variedades do pastor-belga, é conhecido por ser um cão muito inteligente e fiel ao seu dono",
+        "PONTO FORTE": "Inteligência",
+        "AMBIENTE": "Locais com espaço e que permitam atividades físicas regulares",
+        "PORTE": "Grande",
+        "PESO": "Entre 20kg e 30kg",
+        "ALTURA": "Entre 58cm a 66cm"
+    },
+    "Irish Spaniel": {
+        "CARACTERÍSTICA": "O spaniel irlandês é uma raça de cão caçador que se destaca pelo faro apurado e habilidades em terrenos alagados.",
+        "PONTO FORTE": "Habilidade para caça",
+        "AMBIENTE": "Locais com espaço e que permitam atividades físicas regulares",
+        "PORTE": "Médio",
+        "PESO": "Entre 20kg e 30kg",
+        "ALTURA": "Entre 53cm a 59cm"
+    },
+    "Irish Wolfhound": {
+        "CARACTERÍSTICA": "Os wolfhounds irlandeses são cães gigantes que foram criados para caçar lobos.",
+        "PONTO FORTE": "Grande porte e força física",
+        "AMBIENTE": "Locais com espaço e que permitam atividades físicas regulares",
+        "PORTE": "Gigante",
+        "PESO": "Entre 45kg e 70kg",
+        "ALTURA": "Entre 76cm a 86cm"
+    },
+    "Japanese Spaniel": {
+        "CARACTERÍSTICA": "Conhecido como Chin, o Spaniel Japonês é um cão pequeno e companheiro que se destaca pela personalidade cativante e amorosa",
+        "PONTO FORTE": "Personalidade afetuosa e amorosa",
+        "AMBIENTE": "Apartamentos ou casas pequenas",
+        "PORTE": "Pequeno",
+        "PESO": "Entre 1kg e 6kg",
+        "ALTURA": "Entre 20cm a 28cm"
+    },
+    "Komondor": {
+        "CARACTERÍSTICA": "Originário da Hungria, é conhecido por sua pelagem longa e enroscada.",
+        "PONTO FORTE": "Guarda e proteção.",
+        "AMBIENTE": "Casas com quintais grandes ou fazendas.",
+        "PORTE": "grande",
+        "PESO": "Entre 36kg e 60kg",
+        "ALTURA": "Entre 70cm e 80cm"
+    },
+    "Labradoodle": {
+        "CARACTERÍSTICA": "Resultado do cruzamento entre um Labrador Retriever e um Poodle.",
+        "PONTO FORTE": "Inteligência e companheirismo.",
+        "AMBIENTE": "Qualquer tipo de ambiente.",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 23kg e 30kg",
+        "ALTURA": "Entre 53cm e 63cm"
+    },
+    "Labrador": {
+        "CARACTERÍSTICA": "Originário do Reino Unido, é conhecido por ser um excelente cão de companhia e de trabalho.",
+        "PONTO FORTE": "Inteligência e facilidade de treinamento.",
+        "AMBIENTE": "Qualquer tipo de ambiente.",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 25kg e 36kg",
+        "ALTURA": "Entre 54cm e 57cm (fêmeas) ou 56cm e 63cm (machos)"
+    },
+    "Lhasa": {
+        "CARACTERÍSTICA": "Originário do Tibet, é conhecido por sua pelagem longa e sedosa.",
+        "PONTO FORTE": "Inteligência e companheirismo.",
+        "AMBIENTE": "Apartamentos ou casas pequenas.",
+        "PORTE": "pequeno a médio",
+        "PESO": "Entre 4kg e 7kg",
+        "ALTURA": "Entre 25cm e 28cm"
+    },
+    "Malinois": {
+        "CARACTERÍSTICA": "Variedade de Pastor Belga, é conhecido por ser um excelente cão de trabalho.",
+        "PONTO FORTE": "Inteligência e facilidade de treinamento.",
+        "AMBIENTE": "Casas com quintais grandes ou fazendas.",
+        "PORTE": "médio",
+        "PESO": "Entre 20kg e 30kg",
+        "ALTURA": "Entre 60cm e 66cm"
+    },
+    "Maltese":{
+        "CARACTERÍSTICA":"Originário da Itália, é conhecido por seu pelo longo e branco, além de ser um cão muito dócil e companheiro.",
+        "PONTO FORTE":"Lealdade",
+        "AMBIENTE":"Apartamentos ou casas pequenas",
+        "PORTE": "pequeno",
+        "PESO": "Entre 1,5kg e 3kg",
+        "ALTURA": "Entre 20cm a 25cm"
+    },
+    "Mexican Hairless":{
+        "CARACTERÍSTICA":"Originário do México, é conhecido por ser uma raça sem pelos.",
+        "PONTO FORTE":"Resistência",
+        "AMBIENTE":"Apartamentos ou casas pequenas",
+        "PORTE": "pequeno a médio",
+        "PESO": "Entre 2,5kg e 8kg",
+        "ALTURA": "Entre 25cm a 55cm"
+    },
+    "Newfoundland":{
+        "CARACTERÍSTICA":"Originário do Canadá, é conhecido por sua força e tamanho impressionantes, além de ser muito leal e gentil.",
+        "PONTO FORTE":"Força física",
+        "AMBIENTE":"Casas com quintais grandes ou áreas rurais",
+        "PORTE": "grande",
+        "PESO": "Entre 50kg e 70kg",
+        "ALTURA": "Entre 66cm a 71cm (fêmeas) ou 71cm a 76cm (machos)"
+    },
+    "Pekinese":{
+        "CARACTERÍSTICA":"Originário da China, é conhecido por ser um cão muito inteligente e companheiro, além de ter um pelo longo e sedoso.",
+        "PONTO FORTE":"Inteligência",
+        "AMBIENTE":"Apartamentos ou casas pequenas",
+        "PORTE": "pequeno",
+        "PESO": "Entre 3,5kg e 6kg",
+        "ALTURA": "Entre 15cm a 23cm"
+    },
+    "Pitbull":{
         "CARACTERÍSTICA":"Originário dos Estados Unidos, foram criados para serem cães de combate.",
         "PONTO FORTE":"Força física",
         "AMBIENTE":"Casas com grandes quintais, ambientes com bastante espaço",
@@ -23,12 +407,116 @@
         "PESO": "Entre 14kg e 30kg",
         "ALTURA": "Entre 43cm a 53cm (fêmeas) ou 45cm a 53cm (machos)"
     },
-    "Vira-lata":{
-        "CARACTERÍSTICA":"Podem variar muito em aparência e tamanho. Geralmente são amorosos e leais.",
-        "PONTO FORTE":"Adaptabilidade",
-        "AMBIENTE":"Variável, dependendo do porte",
-        "PORTE": "Variável",
-        "PESO": "Variável",
-        "ALTURA": "Variável"
+    "Pomeranian":{
+        "CARACTERÍSTICA":"Originário da Polônia e da Alemanha, são conhecidos por sua pelagem fofa e por serem bons animais de companhia.",
+        "PONTO FORTE":"Lealdade",
+        "AMBIENTE":"Apartamentos ou casas pequenas",
+        "PORTE": "pequeno",
+        "PESO": "Entre 1,5kg e 3,5kg",
+        "ALTURA": "Entre 20cm a 28cm"
+    },
+    "Poodle":{
+        "CARACTERÍSTICA":"Originário da França, são conhecidos por sua inteligência e pelagem encaracolada.",
+        "PONTO FORTE":"Inteligência",
+        "AMBIENTE":"Apartamentos ou casas com quintais médios",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 15kg e 32kg",
+        "ALTURA": "Entre 35cm a 60cm"
+    },
+    "Pug":{
+        "CARACTERÍSTICA":"Originário da China, são conhecidos por seu rosto achatado e por serem animais de companhia adoráveis.",
+        "PONTO FORTE":"Personalidade",
+        "AMBIENTE":"Apartamentos ou casas pequenas",
+        "PORTE": "pequeno",
+        "PESO": "Entre 6kg e 8kg",
+        "ALTURA": "Entre 25cm a 30cm"
+    },
+    "Rhodesian":{
+        "CARACTERÍSTICA":"Originário do Zimbábue, são conhecidos por sua força e habilidade em caçar leões.",
+        "PONTO FORTE":"Força física",
+        "AMBIENTE":"Casas com grandes quintais, ambientes com bastante espaço",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 30kg e 39kg",
+        "ALTURA": "Entre 63cm a 69cm (fêmeas) ou 63cm a 69cm (machos)"
+    },
+    "Rottweiler":{
+        "CARACTERÍSTICA":"Originário da Alemanha, são conhecidos por sua lealdade e proteção.",
+        "PONTO FORTE":"Lealdade",
+        "AMBIENTE":"Casas com quintais grandes, fazendas ou em áreas rurais",
+        "PORTE": "grande",
+        "PESO": "Entre 35kg e 60kg",
+        "ALTURA": "Entre 56cm a 69cm (fêmeas) ou 61cm a 69cm (machos)"
+    },
+    "Saint Bernard": {
+        "CARACTERÍSTICA": "Originário dos Alpes Suíços, é conhecido por ser um cão forte e robusto, com habilidades de resgate e salvamento em montanhas e regiões geladas.",
+        "PONTO FORTE": "Força física e resistência",
+        "AMBIENTE": "Casas com quintais grandes ou áreas rurais",
+        "PORTE": "grande",
+        "PESO": "Entre 64kg e 120kg",
+        "ALTURA": "Entre 65cm a 90cm"
+    },
+    "Schnauzer": {
+        "CARACTERÍSTICA": "Originário da Alemanha, é conhecido pela barba e sobrancelhas características.",
+        "PONTO FORTE": "Inteligência",
+        "AMBIENTE": "Apartamentos ou casas pequenas",
+        "PORTE": "pequeno a médio",
+        "PESO": "Entre 5kg e 20kg",
+        "ALTURA": "Entre 30cm a 50cm"
+    },
+    "Scotch Terrier": {
+        "CARACTERÍSTICA": "Originário da Escócia, é conhecido por sua pelagem dura e densa.",
+        "PONTO FORTE": "Coragem e lealdade",
+        "AMBIENTE": "Apartamentos ou casas pequenas",
+        "PORTE": "pequeno",
+        "PESO": "Entre 8kg e 10kg",
+        "ALTURA": "Entre 25cm a 28cm"
+    },
+    "Shar-pei": {
+        "CARACTERÍSTICA": "Originário da China, é conhecido por sua pele enrugada e pelagem áspera.",
+        "PONTO FORTE": "Lealdade e coragem",
+        "AMBIENTE": "Casas com quintais grandes ou áreas rurais",
+        "PORTE": "médio a grande",
+        "PESO": "Entre 18kg e 29kg",
+        "ALTURA": "Entre 44cm a 51cm"
+    },
+    "Shiba Inu": {
+        "CARACTERÍSTICA": "Originário do Japão, é conhecido por sua personalidade independente e espírito corajoso.",
+        "PONTO FORTE": "Agilidade",
+        "AMBIENTE": "Apartamentos ou casas pequenas",
+        "PORTE": "pequeno a médio",
+        "PESO": "Entre 6kg e 11kg",
+        "ALTURA": "Entre 33cm a 43cm"
+    },
+    "Shih-Tzu":{
+        "CARACTERÍSTICA":"Originário da China, é um cão de companhia e pode ser bastante teimoso.",
+        "PONTO FORTE":"Personalidade alegre e amigável.",
+        "AMBIENTE":"Apartamentos ou casas com quintais pequenos.",
+        "PORTE": "pequeno",
+        "PESO": "Entre 4kg e 7kg",
+        "ALTURA": "Entre 20cm a 28cm"
+    },
+    "Siberian Husky":{
+        "CARACTERÍSTICA":"Originário da Sibéria, é um cão de trenó que pode suportar temperaturas extremamente frias.",
+        "PONTO FORTE":"Resistência e agilidade.",
+        "AMBIENTE":"Casas com grandes quintais ou áreas rurais.",
+        "PORTE": "médio",
+        "PESO": "Entre 16kg e 27kg",
+        "ALTURA": "Entre 51cm a 60cm (fêmeas) ou 53cm a 60cm (machos)"
+    },
+    "Vizsla":{
+        "CARACTERÍSTICA":"Originário da Hungria, é um cão de caça muito ativo e enérgico.",
+        "PONTO FORTE":"Fidelidade e inteligência.",
+        "AMBIENTE":"Casas com quintais grandes ou em áreas rurais.",
+        "PORTE": "médio",
+        "PESO": "Entre 20kg e 30kg",
+        "ALTURA": "Entre 53cm a 64cm (fêmeas) ou 56cm a 69cm (machos)"
+    },
+    "Yorkie":{
+        "CARACTERÍSTICA":"Originário da Inglaterra, é um cão de companhia e pode ser bastante territorial.",
+        "PONTO FORTE":"Personalidade leal e protetora.",
+        "AMBIENTE":"Apartamentos ou casas pequenas.",
+        "PORTE": "pequeno",
+        "PESO": "Entre 1,5kg e 3,2kg",
+        "ALTURA": "Entre 17cm a 23cm"
     }
 }

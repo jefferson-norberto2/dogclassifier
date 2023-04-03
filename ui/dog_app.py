@@ -12,7 +12,7 @@ class DogApp:
         master.geometry('600x450')
 
         # Carrega o arquivo JSON com as informações das raças
-        with open("files\\trait_dog.json", "r", encoding='utf-8') as f:
+        with open("files/trait_dog.json", "r", encoding='utf-8') as f:
             self.dog_info = json.load(f)
 
         # Define os elementos da interface
@@ -26,7 +26,7 @@ class DogApp:
         self.button.pack()
         self.button.configure(state="disabled")
 
-        image, _ = self.load_image("images\logo.png")
+        image, _ = self.load_image("images/logo.png")
         image = image.resize((300, 300), Image.LANCZOS)
         photo = ImageTk.PhotoImage(image)
         self.image_label.configure(image=photo)
