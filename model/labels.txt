@@ -1,4 +1,70 @@
-0 Border Collie
-1 Chihuahua
-2 Pit Bull
-3 Vira-lata
+0 Afghan
+1 African Wild Dog
+2 Ariedale
+3 American Hairless 
+4 American Spaniel
+5 Basenji
+6 Basset
+7 Beagle
+8 Bearded Collie
+9 Bermaise
+10 Bicon Frise
+11 Bleheim
+12 Bloodhound
+13 Bluetick
+14 Border Collie
+15 Borzoi
+16 Boston Terrier
+17 Boxer
+18 Bull Mastif
+19 Bull Terrier
+20 Bulldog
+21 Cairn
+22 Chihauhau
+23 Chinese Crested
+24 Chow
+25 Clumber
+26 Cockapoo
+27 Cocker
+28 Collie
+29 Corgi
+30 Coyote
+31 Dalmation
+32 Dhole
+33 Dingo
+34 Doberman
+35 Elk Hound
+36 French Bulldog
+37 German Sheper
+38 Golden Retriever
+39 Great Dane
+40 Great Perenees
+41 Greyhound
+42 Groenendael
+43 Irish Spaniel
+44 Irish Wolfhound
+45 Japanese Spaniel
+46 Komondor
+47 Labradoodle
+48 Labrador
+49 Lhasa
+50 Malinois
+51 Maltese
+52 Mex Hairless
+53 Newfoundland
+54 Pekinese
+55 Pitbull
+56 Pomeranian
+57 Poodle
+58 Pug
+59 Rhodesian
+60 Rottweiler
+61 Saint Bernard
+62 Schnauzer
+63 Scotch Terrier
+64 Shar_pei
+65 Shiba Inu
+66 Shih-Tzu
+67 Siberian Husky
+68 Vizsla
+69 Yorkie
