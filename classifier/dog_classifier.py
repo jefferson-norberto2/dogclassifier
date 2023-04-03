@@ -1,6 +1,7 @@
 from keras.models import load_model  # TensorFlow is required for Keras to work
 from PIL import Image, ImageOps  # Install pillow instead of PIL
 import numpy as np
+import re
 
 class DogClassifier:
     def __init__(self) -> None:
@@ -39,7 +40,19 @@ class DogClassifier:
         class_name = self.class_names[index]
         confidence_score = prediction[0][index]
 
-        return class_name[2:], confidence_score
+        return self.process_string(class_name), confidence_score
+
+    def process_string(self, string: str) -> str:
+        # Remove espaços do início e fim da string
+        string = string.strip()
+
+        # Remove números da string usando expressões regulares
+        string = re.sub(r'\d+', '', string)
+
+        # Remove \n da string usando replace
+        string = string.strip()
+
+        return string
 
     
 

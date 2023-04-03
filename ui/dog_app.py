@@ -90,7 +90,6 @@ class DogApp:
     def trait_dog(self, image):
         class_name, confidence = self.classifier.classifier(image)
         if class_name:
-            class_name = class_name[:-1] # Remove '\n' of name
             self.update_infos(class_name)
         else:
             self.update_infos("Raça não definida")
