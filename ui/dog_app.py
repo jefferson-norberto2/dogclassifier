@@ -3,7 +3,6 @@ import tkinter.ttk as ttk
 from tkinter import filedialog
 from PIL import ImageTk, Image
 import json
-from ui.loading_screen import LoadingScreen
 import threading
 
 class DogApp:
