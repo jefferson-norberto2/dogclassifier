@@ -10,30 +10,33 @@ class DogApp:
     def __init__(self, master):
         self.master = master
         style = ttk.Style(master)
-        style.configure('.', font=('Arial', 20))
+        style.configure('.', font=('Arial', 15))
         master.title("Dog App")
-        master.geometry('1300x700')
+        master.geometry('900x700')
 
         # Carrega o arquivo JSON com as informações das raças
         with open("files/trait_dog.json", "r", encoding='utf-8') as f:
             self.dog_info = json.load(f)
 
         # Define os elementos da interface
+        self.text_label2 = tk.Label(master, text="Dog Classifier", font=("Arial", 15))
+        self.text_label2.pack()
+
         self.image_label = tk.Label(master)
         self.image_label.pack()
 
-        self.text_label = tk.Label(master, text="", font=("Arial", 20))
+        self.text_label = tk.Label(master, text="", font=("Arial", 15))
         self.text_label.pack()
 
         self.button = tk.Button(master, text="Escolher foto", command=self.choose_file)
         
         # Atualizando a fonte do botão
-        self.button.config(font=('Arial', 20))
+        self.button.config(font=('Arial', 15))
         self.button.pack()
         self.button.configure(state="disabled")
 
         image, _ = self.load_image("images/logo.png")
-        image = image.resize((500, 500), Image.LANCZOS)
+        image = image.resize((400, 400), Image.LANCZOS)
         photo = ImageTk.PhotoImage(image)
         self.image_label.configure(image=photo)
         self.image_label.image = photo
@@ -57,7 +60,7 @@ class DogApp:
         if file_path:
             # Carrega a imagem e exibe na interface
             image, img = self.load_image(file_path)
-            image = image.resize((300, 300), Image.LANCZOS)
+            image = image.resize((400, 400), Image.ADAPTIVE)
             photo = ImageTk.PhotoImage(image)
             self.image_label.configure(image=photo)
             self.image_label.image = photo
